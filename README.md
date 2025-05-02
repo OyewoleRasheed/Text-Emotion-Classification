@@ -37,8 +37,6 @@ pip install -r requirements.txt
 ```
 ├── text-emotion-classification.ipynb  # Jupyter Notebook (main implementation)
 ├── app.py                             # Gradio UI script
-├── models/
-│   └── emotion_model.h5               # Trained Keras model
 ├── README.md                          # Project documentation
 ```
 
